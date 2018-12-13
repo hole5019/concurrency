@@ -1,6 +1,6 @@
 package com.imooc.concurrency;
 
-import com.mmall.concurrency.example.threadLocal.RequestHolder;
+import com.imooc.concurrency.example.threadLocal.RequestHolder;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
